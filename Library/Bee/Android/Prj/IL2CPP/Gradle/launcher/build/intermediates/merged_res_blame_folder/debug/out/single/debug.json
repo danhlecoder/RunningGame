@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-ldpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-ldpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-ldpi_app_icon.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-mdpi/app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-xxxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-hdpi_app_icon.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-ldpi_app_icon.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-ldpi/app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-hdpi/app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-merged_res-6:\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\KLphu\\.gradle\\daemon\\7.5.1\\com.RunningGame.Game.launcher-main-8:\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.RunningGame.Game.launcher-merged_res-6:/mipmap-ldpi_app_icon_round.png.flat",
+        "source": "com.RunningGame.Game.launcher-main-8:/mipmap-ldpi/app_icon_round.png"
+    }
+]

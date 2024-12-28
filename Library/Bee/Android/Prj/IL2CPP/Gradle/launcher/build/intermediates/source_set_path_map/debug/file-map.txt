@@ -1,0 +1,11 @@
+com.RunningGame.Game.launcher-jetified-arcore_client-0 C:\Users\KLphu\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\res
+com.RunningGame.Game.launcher-pngs-1 D:\VR\Game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\debug
+com.RunningGame.Game.launcher-resValues-2 D:\VR\Game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\debug
+com.RunningGame.Game.launcher-rs-3 D:\VR\Game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\debug
+com.RunningGame.Game.launcher-mergeDebugResources-4 D:\VR\Game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.RunningGame.Game.launcher-mergeDebugResources-5 D:\VR\Game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.RunningGame.Game.launcher-merged_res-6 D:\VR\Game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\debug
+com.RunningGame.Game.launcher-debug-7 D:\VR\Game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\debug\res
+com.RunningGame.Game.launcher-main-8 D:\VR\Game\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.RunningGame.Game.launcher-packaged_res-9 D:\VR\Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\debug
+com.RunningGame.Game.launcher-packaged_res-10 D:\VR\Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\debug
